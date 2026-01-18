@@ -31,7 +31,7 @@ httplib2shim>=0.0.3
 
 # Azure Provider
 requests>=2.22.0
-azure-core>=1.2.1
+azure-core>=1.38.0
 adal>=0.4.7
 azure-cli-core>=2.0.55
 azure-mgmt-storage>=7.1.0
